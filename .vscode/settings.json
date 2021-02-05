@@ -1,0 +1,13 @@
+{
+  "liveServer.settings.port": 5505
+}
+
+"mediaQuery2": {
+  "prefix": "@mq",
+  "body": [
+    "@include mq(sm) {",
+    "\t$1",
+    "}"
+  ],
+  "description": "Log output to console"
+}
